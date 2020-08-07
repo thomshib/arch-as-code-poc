@@ -1,0 +1,15 @@
+name: "Hello World!!!"
+businessUnit: "DevFactory"
+description: "Architecture as code v 0.1"
+decisions: []
+model:
+  people: []
+  systems: []
+  containers: []
+  components: []
+  deploymentNodes: []
+views:
+  systemViews: []
+  containerViews: []
+  componentViews: []
+  deploymentViews: []
