@@ -1,2 +1,0 @@
-# AWS RI Architecture
-
