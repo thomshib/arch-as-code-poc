@@ -1,0 +1,55 @@
+name: '[SAMPLE NAME]'
+milestone: M1 - Buy order creation
+authors:
+- name: '[SAMPLE PERSON NAME]'
+  email: '[SAMPLE PERSON EMAIL]'
+PCAs:
+- name: '[SAMPLE PERSON NAME]'
+  email: '[SAMPLE PERSON EMAIL]'
+P2:
+  link: ""
+P1:
+  link: https://docs.google.com/document/d/1cxy1jSKsCtqCx59SO_FgYUnIl4XHNpyJbkG-vpGc0Hw/edit#heading=h.s8exrxxz435y
+  jira:
+    ticket: SPEC-22205
+    link: https://jira.devfactory.com/browse/SPEC-22205
+  executive-summary: ""
+useful-links:
+- description: '[SAMPLE LINK DESCRIPTION]'
+  link: '[SAMPLE-LINK]'
+milestone-dependencies:
+- description: '[SAMPLE MILESTONE DEPENDENCY]'
+  links:
+  - description: '[SAMPLE LINK DESCRIPTION]'
+    link: '[SAMPLE-LINK]'
+decisions: {}
+tdds-per-component:
+- component-id: '[SAMPLE-COMPONENT-ID]'
+  deleted: false
+  tdds:
+    '[SAMPLE-TDD-ID]':
+      text: |-
+        [SAMPLE TDD TEXT LONG TEXT FORMAT]
+        Line 2
+        Line 3
+functional-requirements:
+  '[SAMPLE-REQUIREMENT-ID]':
+    text: '[SAMPLE REQUIREMENT TEXT]'
+    source: '[SAMPLE REQUIREMENT SOURCE TEXT]'
+    tdd-references:
+    - '[SAMPLE-TDD-ID]'
+capabilities:
+  epic:
+    title: Please enter epic title from Jira
+    jira:
+      ticket: please-enter-epic-ticket-from-jira
+      link: Please enter epic link from Jira
+  feature-stories:
+  - title: '[SAMPLE FEATURE STORY TITLE]'
+    jira:
+      ticket: ""
+      link: ""
+    tdd-references:
+    - '[SAMPLE-TDD-ID]'
+    functional-requirement-references:
+    - '[SAMPLE-REQUIREMENT-ID]'
